@@ -9,9 +9,20 @@ export default function Home() {
           
 
           <div className='flex flex-col'>
-            <p className='text-4xl font-bold pb-4'>SKILL</p>
-            <p className='text-lg font-bold pb-2'>A Bit About Me</p>
-            <p className='text-base break-words'>I am the one who is genuinely interested in technology and science, from software computers,to quantum computer, to neutron planets and black holes. </p>
+            <p className='text-4xl font-bold pb-4'>SKILLS</p>
+            <p className='text-lg font-bold pb-2'>practice practice practice</p>
+            <p className='text-base break-words'>
+                  <ul className='list-disc'>
+              <li className='text-xl md:text-base pt-2'>Critical thinking and academic writing in Thai and English</li>
+              <li className='text-xl md:text-base pt-2'>Leadership and team/project management(PM)</li>
+              <li className='text-xl md:text-base pt-2'>Communicating, MC, presenting and teaching</li>
+              <li className='text-xl md:text-base pt-2'>Back stage organizing and directing</li>
+              <li className='text-xl md:text-base pt-2'>Designing business canvas and marketing plan</li>
+              <li className='text-xl md:text-base pt-2'>Designing User Experince/ User Interface</li>
+              <li className='text-xl md:text-base pt-2'>Programming in C and Python</li>
+              <li className='text-xl md:text-base pt-2'>Writing and Learning to use Typescript, Nextjs, Tailwind </li>
+              </ul>
+            </p>
           </div>
 
         </div>

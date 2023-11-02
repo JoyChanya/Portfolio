@@ -7,13 +7,16 @@ export default function aboutme() {
       <div className="pt-[5rem] md:pt-[10rem] z-10 max-w-5xl w-full flex items-center justify-center text-sm lg:flex">
         <div className='flex flex-row items-center justify-center gap-[3rem]'>
           <div className='rounded-full overflow-hidden'> 
-          <Image src={'/ProfilePic.jpeg'} objectFit='cover' alt={''} width={700} height={700}/>
+          <Image src={'/nihon.JPG'} objectFit='cover' alt={''} width={500} height={500}/>
           </div>
 
           <div className='flex flex-col justify-center'>
             <p className='text-[10rem] font-bold pb-[4rem]'>ME!</p>
-            <p className='text-lg font-bold pb-2 pl-2'>A Bit About Me</p>
-            <p className='text-base break-words pl-2'>I am the one who is genuinely interested in technology and science, from software computers,to quantum computer, to neutron planets and black holes. </p>
+            <p className='text-lg font-bold pb-2 pl-2'>Hi, I'm Chanya Kittichai</p>
+            <p className='text-base break-words pl-2'>Nickname: Joy </p>
+            <p className='text-base break-words pl-2'>Date of Birth: 23rd September 2004 </p>
+            <p className='text-base break-words pl-2'>Hobby: cooking Japanese food, playing Electone and Ukulele, Writing articles on my website, reading biology, astronomy, and politics books</p>
+            <p className='text-base break-words pl-2'>Favorite subjects: astronomy, calculus, and economics </p>
           </div>
 
         </div>

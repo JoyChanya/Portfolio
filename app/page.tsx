@@ -13,7 +13,7 @@ export default function Home() {
           <div className='flex flex-col'>
             <p className='text-4xl font-bold pb-4'>Chanya Kittichai</p>
             <p className='text-lg font-bold pb-2'>A Bit About Me</p>
-            <p className='text-base break-words'>I am the one who is genuinely interested in technology and science, from software computers,to quantum computer, to neutron planets and black holes. </p>
+            <p className='text-base break-words'>I am the one who is genuinely interested in technology and science, from AI, to quantum computer, to neutron planets and black holes. </p>
           </div>
 
         </div>
